@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/layout/_header.scss"],"names":[],"mappings":"AAAA,OACE,SAAA,CACA","file":"src.34580015.css","sourceRoot":"../src","sourcesContent":["header {\n  color: red;\n  font-size: 26px;\n}\n"]}
